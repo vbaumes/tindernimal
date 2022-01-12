@@ -4,7 +4,7 @@
 
 ## Description
 
-API for a future application, which will aim to help owner's of dogs to find a partner for their bestfriend to reproduce with. 
+API for a future application, which will aim to help owners of dogs to find a partner for their bestfriend to reproduce with. 
 
 ## Installation
 
